@@ -31,5 +31,5 @@ https://dacon.io/competitions/official/236082/overview/description
 <img width="1070" alt="스크린샷 2024-04-22 오후 7 54 24" src="https://github.com/westnowise/pagingVGG16/assets/98007431/e7178443-de9b-45f7-8ec4-0441f95a4d44">
 
 ## Data Preprocessing
-<img width="559" alt="스크린샷 2024-04-22 오후 7 55 13" src="https://github.com/westnowise/pagingVGG16/assets/98007431/7d4a4bf8-a0c8-4944-b563-d9e1550b4b10">
+<img width="1070" alt="스크린샷 2024-04-22 오후 7 55 13" src="https://github.com/westnowise/pagingVGG16/assets/98007431/7d4a4bf8-a0c8-4944-b563-d9e1550b4b10">
 
