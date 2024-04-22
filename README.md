@@ -1,4 +1,4 @@
-<img width="1070" alt="스크린샷 2024-04-22 오후 7 54 24" src="https://github.com/westnowise/pagingVGG16/assets/98007431/f17108f8-b54e-4533-8530-e53477f15234"># VGG16 모델을 활용한 도배 하자 유형 분류
+# VGG16 모델을 활용한 도배 하자 유형 분류
 DACON 도배 하자의 유형 분류 AI 모델 개발
 
 https://dacon.io/competitions/official/236082/overview/description
