@@ -3,11 +3,22 @@
 
 
 ## 🔖 Guide
-### Requirements
-    tensorflow
+### Packages Needed
+    
+    from glob import glob
+    import numpy as np
+    from PIL import Image
+
+    import tensorflow as tf
+    from tensorflow.keras.applications import VGG16
+    from tensorflow.keras.models import Sequential
+    from tensorflow.keras.layers import Dense
+    
+    import matplotlib.pyplot as plt
+
 
     
-### Installation
+### Running
     pip install tensorflow
     pip install argon
 
