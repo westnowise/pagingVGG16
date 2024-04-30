@@ -33,24 +33,3 @@ https://dacon.io/competitions/official/236082/overview/description
 ## Data Preprocessing
 <img width="1070" alt="스크린샷 2024-04-22 오후 7 55 13" src="https://github.com/westnowise/pagingVGG16/assets/98007431/7d4a4bf8-a0c8-4944-b563-d9e1550b4b10">
 
-|  원본             | 영어                             | 
-| ------------- | ---------------------------------- | 
-| 가구수정 | furniture |
-| 걸레받이수정 | Mop |
-| 곰팡이 | mold |
-| 꼬임 | kink |
-| 녹오염 | rust |
-| 들뜸 | interval |
-| 면불량 | defective |
-| 몰딩수정 | molding |
-| 반점 | spot |
-| 석고수정 | gypsum |
-| 오염 | pollution |
-| 오타공  | perforated |
-| 울음 | wall |
-| 이음부불량 | joint|
-| 창틀, 문틀수정 | frame |
-| 터짐 | explode |
-| 틈새과다 | gap |
-| 피스 | piece |
-| 훼손 | damage |
